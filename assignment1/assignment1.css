@@ -1,0 +1,70 @@
+img
+  {
+    width:140px;
+    height:140px;
+    display: block;
+  }
+p
+  {
+    width:140px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    
+    
+  }
+figcaption  
+  {
+  font-size: small;
+  }
+ul
+  {
+    list-style-type: none;
+    
+  }
+
+li  
+    {
+    
+    float: left;
+    padding: 5px;   
+    border-right: 1px solid #AAA;
+    padding-bottom: 20px;
+ 
+   
+ }  
+    
+p:hover
+  {
+     color: red;
+     
+  }
+   
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
